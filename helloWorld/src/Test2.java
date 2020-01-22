@@ -1,5 +1,5 @@
 
-public class test2 {
+public class Test2 {
 	public static void main(String[] args) {
 		byte  var1, var2 ;
 		int sum;
