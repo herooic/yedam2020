@@ -51,12 +51,7 @@ public class HelloWorld {
 	// 변수가 선언되고 다음 변수를 사용할때 초기화 필수 
 	// summary 도 초기값을 안넣어도 num1과 num2 초기화
 	// 값을 넣어주어서 식이 완성됨
-	
-
-			
-			
-			
-			
+		
 			
 	
 	}  
